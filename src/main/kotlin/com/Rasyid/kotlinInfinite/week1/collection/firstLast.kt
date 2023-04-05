@@ -5,9 +5,9 @@ package com.Rasyid.kotlinInfinite.week1.collection
     SIB#4 Infinite Learning_Morning_Android Mobile Dev
 */
 fun main() {
-    val days = arrayOf("Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday")
-    val firstData = days.first()
-    val latestData = days.last()
+    val fruit = arrayOf(12, "Apple", "Orange", "Mango", "Melon", 11, "Juminten")
+    val firstData = fruit.first()
+    val latestData = fruit.last()
 
     println(firstData) // Monday
     println(latestData) // Sunday

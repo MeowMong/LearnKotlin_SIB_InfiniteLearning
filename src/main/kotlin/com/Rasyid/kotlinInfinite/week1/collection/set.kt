@@ -18,7 +18,7 @@ fun main() {
     val hasil2 = setC == setB
     println(hasil2)
 
-    //  angkat 4, 1, 2 di tiga terakhir tidak muncul karena bersifat tidak mencetak data duplikat (redudansi data)
+    //  angka 4, 1, 2 di tiga terakhir tidak muncul karena bersifat tidak mencetak data duplikat (redudansi data)
     println(setD)
 
     // Union and Intersect

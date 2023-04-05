@@ -11,7 +11,7 @@ fun main() {
     while (true) {
         println("Break $i")
         i++
-        if (i > 500) {
+        if (i > 10) {
             break
         }
     }
