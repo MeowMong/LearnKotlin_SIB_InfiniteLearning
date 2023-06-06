@@ -56,7 +56,7 @@ fun main() {
     if (score != null) {
         evaluateScore(score)
     } else {
-        // Input selain tipe data numerik (Integer) akan kembali menjalankan fungsi main()
+        // Input selain tipe data numerik (Integer) atau kosong (null) akan kembali menjalankan fungsi main()
         println("\n--> Hint: Masukkan Input Angka (0 - 100).")
         main()
     }
